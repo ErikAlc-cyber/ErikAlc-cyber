@@ -2,7 +2,7 @@
 - 👀 I’m interested in all computer stuff; from programming to the software
 - 🌱 I’m currently learning C, Python, JS, Rust and PenTest
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me look at my [page](erikalc-cyber.github.io/erikalc.github.io) to look for my contect info.
+- 📫 How to reach me look at my [page](erikalc-cyber.github.io/erikalc.github.io) to look for my contact info.
 
 <!---
 ErikAlc-cyber/ErikAlc-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
